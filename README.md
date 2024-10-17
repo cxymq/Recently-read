@@ -1,5 +1,5 @@
 - [Jonas Hietala: A simple timeline using CSS flexbox](https://www.jonashietala.se/blog/2024/08/25/a_simple_timeline_using_css_flexbox/) css 创建简单的时间线 #css
-- [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/) 通过 github 管理收藏书签 #tools
+- [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/) 通过 github 管理收藏书签 #tools#gitub
 
 # About
 
