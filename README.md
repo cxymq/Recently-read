@@ -1,3 +1,4 @@
+- [戴铭的博客](https://ming1016.github.io/2024/09/05/iOS-performance-optimization-second-time/) iOS 性能优化、Bzael 编译 #ios#性能#编译
 - [戴铭的博客](https://ming1016.github.io/2024/09/12/my-pkm/) 如何做个人知识管理 #tools
 
 - [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/) 通过 github 管理收藏书签 #tools#gitub
