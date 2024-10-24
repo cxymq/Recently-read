@@ -1,8 +1,9 @@
 - [戴铭的博客](https://ming1016.github.io/2024/09/12/my-pkm/) 如何做个人知识管理 #tools
-#摘要
-[bookmark-summary](https://github.com/cxymq/bookmark-summary)
 
 - [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/) 通过 github 管理收藏书签 #tools#gitub
+
+- #摘要
+[bookmark-summary](https://github.com/cxymq/bookmark-summary)
 
 # About
 
