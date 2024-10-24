@@ -1,3 +1,4 @@
+- [戴铭的博客](https://ming1016.github.io/2024/09/12/my-pkm/) 如何做个人知识管理 #tools
 #摘要
 [bookmark-summary](https://github.com/cxymq/bookmark-summary)
 
