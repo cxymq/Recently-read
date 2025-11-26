@@ -1,3 +1,4 @@
+- [我做了个 B 站历史记录分析工具：用开源工具找回你的「数字记忆」 - 少数派](https://sspai.com/post/97392) #ai#b站#tools
 - [Cursor 一年深度开发实践：前端开发的效率革命🚀今年上半年，作为团队中的校招新人，我承接了两位离职同事的业务模块。 - 掘金](https://juejin.cn/post/7573193563053522985) #ai
 - [App extension 总结一. 基本知识 1. 定义 简单的说，App Extension 可以让开发者们拓展自定 - 掘金](https://juejin.cn/post/6844903590348210190) #ios
 - [关于whistle · GitBook](https://wproxy.org/whistle/) #tools#网络抓包
